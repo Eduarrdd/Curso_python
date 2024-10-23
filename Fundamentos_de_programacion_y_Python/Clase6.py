@@ -44,5 +44,5 @@ print(a < b); #Menor que
 print(a <= b); #Menor o igual que
 print(a >= b); #Mayor o igual que
 print(a == b); #Igual que
-print(a != b); #Diferent que
+print(a != b); #Diferente que
 
